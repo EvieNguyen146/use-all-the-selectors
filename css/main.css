@@ -13,7 +13,8 @@ ul, nav {
 .wrapper {
   background-color: #eee8d5;
 }
-#contents, #favs, #facts, #types {color: #93a1a1;
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
 }
 div > dfn {
   background-color: #b58900;
@@ -26,13 +27,13 @@ dfn > strong {
   background-color: #2694d8;
 }
 ol li:first-child {
-  color:  #719e47;
+  color: #719e47;
 }
 ol li:last-child {
   color: #2aa198;
 }
 .types > li:nth-child(odd) {
-  background-color: #657ba3;}
+  background-color: #657ba3; }
 .types > li:nth-child(even) {
   background-color: #586e75;
 }
